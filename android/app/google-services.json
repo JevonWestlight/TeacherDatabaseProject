@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58875766224",
+    "project_id": "internauthentication",
+    "storage_bucket": "internauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58875766224:android:19593c782baab03c9245d5",
+        "android_client_info": {
+          "package_name": "com.westlight.intern2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58875766224-n1ckaofea3f51q46veqn2b2esjvbqnq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGsJqHnFSiqbRWsblgGvSN80KaRyQSsw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58875766224-n1ckaofea3f51q46veqn2b2esjvbqnq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
